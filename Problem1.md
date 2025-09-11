@@ -1,12 +1,13 @@
 # Problem 1
 - Who did you work with (if anyone)?:
-- If you used AI assistance, please link the transcript URL:
+- If you used AI assistance, please link the transcript URL if available:
 - Estimated time spent on problem?:
 
-Below you have spaces to indicate how you created and populated your table.
+Below you have spaces to indicate how you created and populated your table. If you had to make any judgement calls that bear explaining, include some explanation.
 
 
 ## Creating the table
+- **Explanation (if needed):**
 ```sql
 
 
@@ -14,6 +15,7 @@ Below you have spaces to indicate how you created and populated your table.
 ```
 
 ## Populating the table
+- **Explanation (if needed):**
 ```sql
 
 

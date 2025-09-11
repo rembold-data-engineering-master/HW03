@@ -1,6 +1,6 @@
 # Problem 3
 - Who did you work with (if anyone)?:
-- If you used AI assistance, please link the transcript URL:
+- If you used AI assistance, please link the transcript URL if available:
 - Estimated time spent on problem?:
 
 This problem almost assuredly will take you multiple steps. Include your used SQL queries within the markdown triple backtick syntax, and _provide some text explanation_ of what you were doing in between! **Don't forget to upload your output CSV as well as this file.**
